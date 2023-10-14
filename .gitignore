@@ -2,6 +2,7 @@
 # Prerequisites
 *.d
 *.vcxproj
+*.vcxproj.*
 x64
 Debug
 # Compiled Object files
